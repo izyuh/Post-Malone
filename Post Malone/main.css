@@ -1,0 +1,30 @@
+a{
+    color: blue;
+}
+
+a:visited{
+    color: darkslateblue;
+}
+a:hover, a:active {
+    color: red;
+}
+
+
+
+#Stoney  {
+        background-color: #ea5f34;
+}
+#beerbongs{
+    background-color: #cec40f;
+}
+#Hollywood{
+    background-color: #171717;
+    color: lightgray;
+}
+#Toothache{
+    background-color: #312f34;
+    color: lightgray;
+}
+#Austin {
+    background-color: #59d3fe;
+}
