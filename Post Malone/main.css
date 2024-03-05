@@ -8,23 +8,59 @@ a:visited{
 a:hover, a:active {
     color: red;
 }
+#Spotify{
+    background-color: #1ED760;
+    padding: 20px;
+}
+
+#top{
+    background-color: lightgoldenrodyellow ;
+    padding: 20px;
+    
+}
 
 
 
 #Stoney  {
         background-color: #ea5f34;
+        padding: 20px;
 }
 #beerbongs{
     background-color: #cec40f;
+    padding: 20px;
 }
 #Hollywood{
     background-color: #171717;
     color: lightgray;
+    padding: 20px;
 }
 #Toothache{
     background-color: #312f34;
     color: lightgray;
+    padding: 20px;
 }
 #Austin {
     background-color: #59d3fe;
+    padding: 20px;
 }
+
+
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+#darktable {
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding: 20px;
+}
+footer, nav{
+    background-color: lightgray;
+    padding: 20px;
+    
+}
+body{
+    margin: 0px;
+}
+
